@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello Matez!</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_title">ELI5: Why is it that paper cups get mushy and starts to fall apart within an hour when holding cold fluids, but are perfectly okay with holding hot fluids like coffee indefinitely</string>
+</resources>
